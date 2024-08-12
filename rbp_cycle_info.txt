@@ -1,0 +1,348 @@
+RBP10: 3 cycles
+  htr-selex\RBP10_1.txt
+  htr-selex\RBP10_2.txt
+  htr-selex\RBP10_3.txt
+RBP11: 4 cycles
+  htr-selex\RBP11_1.txt
+  htr-selex\RBP11_2.txt
+  htr-selex\RBP11_3.txt
+  htr-selex\RBP11_4.txt
+RBP12: 4 cycles
+  htr-selex\RBP12_1.txt
+  htr-selex\RBP12_2.txt
+  htr-selex\RBP12_3.txt
+  htr-selex\RBP12_4.txt
+RBP13: 4 cycles
+  htr-selex\RBP13_1.txt
+  htr-selex\RBP13_2.txt
+  htr-selex\RBP13_3.txt
+  htr-selex\RBP13_4.txt
+RBP14: 1 cycles
+  htr-selex\RBP14_4.txt
+RBP15: 4 cycles
+  htr-selex\RBP15_1.txt
+  htr-selex\RBP15_2.txt
+  htr-selex\RBP15_3.txt
+  htr-selex\RBP15_4.txt
+RBP16: 4 cycles
+  htr-selex\RBP16_1.txt
+  htr-selex\RBP16_2.txt
+  htr-selex\RBP16_3.txt
+  htr-selex\RBP16_4.txt
+RBP17: 1 cycles
+  htr-selex\RBP17_4.txt
+RBP18: 4 cycles
+  htr-selex\RBP18_1.txt
+  htr-selex\RBP18_2.txt
+  htr-selex\RBP18_3.txt
+  htr-selex\RBP18_4.txt
+RBP19: 4 cycles
+  htr-selex\RBP19_1.txt
+  htr-selex\RBP19_2.txt
+  htr-selex\RBP19_3.txt
+  htr-selex\RBP19_4.txt
+RBP1: 4 cycles
+  htr-selex\RBP1_1.txt
+  htr-selex\RBP1_2.txt
+  htr-selex\RBP1_3.txt
+  htr-selex\RBP1_4.txt
+RBP20: 4 cycles
+  htr-selex\RBP20_1.txt
+  htr-selex\RBP20_2.txt
+  htr-selex\RBP20_3.txt
+  htr-selex\RBP20_4.txt
+RBP21: 4 cycles
+  htr-selex\RBP21_1.txt
+  htr-selex\RBP21_2.txt
+  htr-selex\RBP21_3.txt
+  htr-selex\RBP21_4.txt
+RBP22: 4 cycles
+  htr-selex\RBP22_1.txt
+  htr-selex\RBP22_2.txt
+  htr-selex\RBP22_3.txt
+  htr-selex\RBP22_4.txt
+RBP23: 4 cycles
+  htr-selex\RBP23_1.txt
+  htr-selex\RBP23_2.txt
+  htr-selex\RBP23_3.txt
+  htr-selex\RBP23_4.txt
+RBP24: 4 cycles
+  htr-selex\RBP24_1.txt
+  htr-selex\RBP24_2.txt
+  htr-selex\RBP24_3.txt
+  htr-selex\RBP24_4.txt
+RBP25: 4 cycles
+  htr-selex\RBP25_1.txt
+  htr-selex\RBP25_2.txt
+  htr-selex\RBP25_3.txt
+  htr-selex\RBP25_4.txt
+RBP26: 4 cycles
+  htr-selex\RBP26_1.txt
+  htr-selex\RBP26_2.txt
+  htr-selex\RBP26_3.txt
+  htr-selex\RBP26_4.txt
+RBP27: 4 cycles
+  htr-selex\RBP27_1.txt
+  htr-selex\RBP27_2.txt
+  htr-selex\RBP27_3.txt
+  htr-selex\RBP27_4.txt
+RBP28: 3 cycles
+  htr-selex\RBP28_1.txt
+  htr-selex\RBP28_2.txt
+  htr-selex\RBP28_3.txt
+RBP29: 4 cycles
+  htr-selex\RBP29_1.txt
+  htr-selex\RBP29_2.txt
+  htr-selex\RBP29_3.txt
+  htr-selex\RBP29_4.txt
+RBP2: 4 cycles
+  htr-selex\RBP2_1.txt
+  htr-selex\RBP2_2.txt
+  htr-selex\RBP2_3.txt
+  htr-selex\RBP2_4.txt
+RBP30: 4 cycles
+  htr-selex\RBP30_1.txt
+  htr-selex\RBP30_2.txt
+  htr-selex\RBP30_3.txt
+  htr-selex\RBP30_4.txt
+RBP31: 4 cycles
+  htr-selex\RBP31_1.txt
+  htr-selex\RBP31_2.txt
+  htr-selex\RBP31_3.txt
+  htr-selex\RBP31_4.txt
+RBP32: 4 cycles
+  htr-selex\RBP32_1.txt
+  htr-selex\RBP32_2.txt
+  htr-selex\RBP32_3.txt
+  htr-selex\RBP32_4.txt
+RBP33: 4 cycles
+  htr-selex\RBP33_1.txt
+  htr-selex\RBP33_2.txt
+  htr-selex\RBP33_3.txt
+  htr-selex\RBP33_4.txt
+RBP34: 4 cycles
+  htr-selex\RBP34_1.txt
+  htr-selex\RBP34_2.txt
+  htr-selex\RBP34_3.txt
+  htr-selex\RBP34_4.txt
+RBP35: 4 cycles
+  htr-selex\RBP35_1.txt
+  htr-selex\RBP35_2.txt
+  htr-selex\RBP35_3.txt
+  htr-selex\RBP35_4.txt
+RBP36: 4 cycles
+  htr-selex\RBP36_1.txt
+  htr-selex\RBP36_2.txt
+  htr-selex\RBP36_3.txt
+  htr-selex\RBP36_4.txt
+RBP37: 4 cycles
+  htr-selex\RBP37_1.txt
+  htr-selex\RBP37_2.txt
+  htr-selex\RBP37_3.txt
+  htr-selex\RBP37_4.txt
+RBP38: 4 cycles
+  htr-selex\RBP38_1.txt
+  htr-selex\RBP38_2.txt
+  htr-selex\RBP38_3.txt
+  htr-selex\RBP38_4.txt
+RBP39: 4 cycles
+  htr-selex\RBP39_1.txt
+  htr-selex\RBP39_2.txt
+  htr-selex\RBP39_3.txt
+  htr-selex\RBP39_4.txt
+RBP3: 4 cycles
+  htr-selex\RBP3_1.txt
+  htr-selex\RBP3_2.txt
+  htr-selex\RBP3_3.txt
+  htr-selex\RBP3_4.txt
+RBP40: 4 cycles
+  htr-selex\RBP40_1.txt
+  htr-selex\RBP40_2.txt
+  htr-selex\RBP40_3.txt
+  htr-selex\RBP40_4.txt
+RBP41: 4 cycles
+  htr-selex\RBP41_1.txt
+  htr-selex\RBP41_2.txt
+  htr-selex\RBP41_3.txt
+  htr-selex\RBP41_4.txt
+RBP42: 3 cycles
+  htr-selex\RBP42_1.txt
+  htr-selex\RBP42_2.txt
+  htr-selex\RBP42_3.txt
+RBP43: 4 cycles
+  htr-selex\RBP43_1.txt
+  htr-selex\RBP43_2.txt
+  htr-selex\RBP43_3.txt
+  htr-selex\RBP43_4.txt
+RBP44: 4 cycles
+  htr-selex\RBP44_1.txt
+  htr-selex\RBP44_2.txt
+  htr-selex\RBP44_3.txt
+  htr-selex\RBP44_4.txt
+RBP45: 1 cycles
+  htr-selex\RBP45_4.txt
+RBP46: 4 cycles
+  htr-selex\RBP46_1.txt
+  htr-selex\RBP46_2.txt
+  htr-selex\RBP46_3.txt
+  htr-selex\RBP46_4.txt
+RBP47: 1 cycles
+  htr-selex\RBP47_4.txt
+RBP48: 4 cycles
+  htr-selex\RBP48_1.txt
+  htr-selex\RBP48_2.txt
+  htr-selex\RBP48_3.txt
+  htr-selex\RBP48_4.txt
+RBP49: 4 cycles
+  htr-selex\RBP49_1.txt
+  htr-selex\RBP49_2.txt
+  htr-selex\RBP49_3.txt
+  htr-selex\RBP49_4.txt
+RBP4: 4 cycles
+  htr-selex\RBP4_1.txt
+  htr-selex\RBP4_2.txt
+  htr-selex\RBP4_3.txt
+  htr-selex\RBP4_4.txt
+RBP50: 4 cycles
+  htr-selex\RBP50_1.txt
+  htr-selex\RBP50_2.txt
+  htr-selex\RBP50_3.txt
+  htr-selex\RBP50_4.txt
+RBP51: 3 cycles
+  htr-selex\RBP51_1.txt
+  htr-selex\RBP51_2.txt
+  htr-selex\RBP51_3.txt
+RBP52: 4 cycles
+  htr-selex\RBP52_1.txt
+  htr-selex\RBP52_2.txt
+  htr-selex\RBP52_3.txt
+  htr-selex\RBP52_4.txt
+RBP53: 4 cycles
+  htr-selex\RBP53_1.txt
+  htr-selex\RBP53_2.txt
+  htr-selex\RBP53_3.txt
+  htr-selex\RBP53_4.txt
+RBP54: 1 cycles
+  htr-selex\RBP54_4.txt
+RBP55: 1 cycles
+  htr-selex\RBP55_4.txt
+RBP56: 4 cycles
+  htr-selex\RBP56_1.txt
+  htr-selex\RBP56_2.txt
+  htr-selex\RBP56_3.txt
+  htr-selex\RBP56_4.txt
+RBP57: 3 cycles
+  htr-selex\RBP57_1.txt
+  htr-selex\RBP57_2.txt
+  htr-selex\RBP57_3.txt
+RBP58: 3 cycles
+  htr-selex\RBP58_1.txt
+  htr-selex\RBP58_2.txt
+  htr-selex\RBP58_3.txt
+RBP59: 4 cycles
+  htr-selex\RBP59_1.txt
+  htr-selex\RBP59_2.txt
+  htr-selex\RBP59_3.txt
+  htr-selex\RBP59_4.txt
+RBP5: 1 cycles
+  htr-selex\RBP5_4.txt
+RBP60: 4 cycles
+  htr-selex\RBP60_1.txt
+  htr-selex\RBP60_2.txt
+  htr-selex\RBP60_3.txt
+  htr-selex\RBP60_4.txt
+RBP61: 3 cycles
+  htr-selex\RBP61_1.txt
+  htr-selex\RBP61_2.txt
+  htr-selex\RBP61_3.txt
+RBP62: 4 cycles
+  htr-selex\RBP62_1.txt
+  htr-selex\RBP62_2.txt
+  htr-selex\RBP62_3.txt
+  htr-selex\RBP62_4.txt
+RBP63: 4 cycles
+  htr-selex\RBP63_1.txt
+  htr-selex\RBP63_2.txt
+  htr-selex\RBP63_3.txt
+  htr-selex\RBP63_4.txt
+RBP64: 4 cycles
+  htr-selex\RBP64_1.txt
+  htr-selex\RBP64_2.txt
+  htr-selex\RBP64_3.txt
+  htr-selex\RBP64_4.txt
+RBP65: 4 cycles
+  htr-selex\RBP65_1.txt
+  htr-selex\RBP65_2.txt
+  htr-selex\RBP65_3.txt
+  htr-selex\RBP65_4.txt
+RBP66: 4 cycles
+  htr-selex\RBP66_1.txt
+  htr-selex\RBP66_2.txt
+  htr-selex\RBP66_3.txt
+  htr-selex\RBP66_4.txt
+RBP67: 4 cycles
+  htr-selex\RBP67_1.txt
+  htr-selex\RBP67_2.txt
+  htr-selex\RBP67_3.txt
+  htr-selex\RBP67_4.txt
+RBP68: 4 cycles
+  htr-selex\RBP68_1.txt
+  htr-selex\RBP68_2.txt
+  htr-selex\RBP68_3.txt
+  htr-selex\RBP68_4.txt
+RBP69: 4 cycles
+  htr-selex\RBP69_1.txt
+  htr-selex\RBP69_2.txt
+  htr-selex\RBP69_3.txt
+  htr-selex\RBP69_4.txt
+RBP6: 4 cycles
+  htr-selex\RBP6_1.txt
+  htr-selex\RBP6_2.txt
+  htr-selex\RBP6_3.txt
+  htr-selex\RBP6_4.txt
+RBP70: 4 cycles
+  htr-selex\RBP70_1.txt
+  htr-selex\RBP70_2.txt
+  htr-selex\RBP70_3.txt
+  htr-selex\RBP70_4.txt
+RBP71: 3 cycles
+  htr-selex\RBP71_1.txt
+  htr-selex\RBP71_2.txt
+  htr-selex\RBP71_3.txt
+RBP72: 3 cycles
+  htr-selex\RBP72_1.txt
+  htr-selex\RBP72_2.txt
+  htr-selex\RBP72_3.txt
+RBP73: 4 cycles
+  htr-selex\RBP73_1.txt
+  htr-selex\RBP73_2.txt
+  htr-selex\RBP73_3.txt
+  htr-selex\RBP73_4.txt
+RBP74: 4 cycles
+  htr-selex\RBP74_1.txt
+  htr-selex\RBP74_2.txt
+  htr-selex\RBP74_3.txt
+  htr-selex\RBP74_4.txt
+RBP75: 4 cycles
+  htr-selex\RBP75_1.txt
+  htr-selex\RBP75_2.txt
+  htr-selex\RBP75_3.txt
+  htr-selex\RBP75_4.txt
+RBP76: 2 cycles
+  htr-selex\RBP76_2.txt
+  htr-selex\RBP76_3.txt
+RBP7: 4 cycles
+  htr-selex\RBP7_1.txt
+  htr-selex\RBP7_2.txt
+  htr-selex\RBP7_3.txt
+  htr-selex\RBP7_4.txt
+RBP8: 4 cycles
+  htr-selex\RBP8_1.txt
+  htr-selex\RBP8_2.txt
+  htr-selex\RBP8_3.txt
+  htr-selex\RBP8_4.txt
+RBP9: 4 cycles
+  htr-selex\RBP9_1.txt
+  htr-selex\RBP9_2.txt
+  htr-selex\RBP9_3.txt
+  htr-selex\RBP9_4.txt
