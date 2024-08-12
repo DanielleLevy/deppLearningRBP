@@ -9,3 +9,9 @@
 so we need to figure out how to take that into consideration.
 
 2024-08-12
+
+
+
+שיטת עבודה
+NAIVE : רגיל וכל פעם שרואים רצף לעשות +1
+IMPROVE : במקום לעשות +1 לעשות +count

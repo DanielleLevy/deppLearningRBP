@@ -28,7 +28,7 @@ def calculate_pearson_correlation(rnacompete_dir, output_dir):
     results.append(f"Average correlation: {average_correlation:.4f}")
 
     # שמירת התוצאות לקובץ
-    with open("pearson_correlations.txt", 'w') as result_file:
+    with open("pearson_correlations_improve.txt", 'w') as result_file:
         result_file.write("\n".join(results))
 
     print("Pearson correlations calculated and saved to 'pearson_correlations.txt'.")

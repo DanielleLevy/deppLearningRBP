@@ -31,8 +31,8 @@ def get_six_len_seqs_with_scores(cycle_files):
     for idx, cycle_file in enumerate(cycle_files):
         with open(cycle_file, 'r') as file:
             for line in file:
-                sequence, count = line.strip().split(',')  # פיצול הרצף והתדירות
-                count = int(count)
+                sequence, count = line.strip().split(',')
+                count = int(count)  # התדירות של הרצף
                 for i in range(len(sequence) - 5):
                     six_length_sequence = sequence[i:i+6]
                     if six_length_sequence in seq_to_counts[idx]:
@@ -55,6 +55,7 @@ def get_six_len_seqs_with_scores(cycle_files):
         combined_scores[seq] = weighted_sum / total_weights
 
     return combined_scores
+
 
 def get_rncmpt_scores(cycle_files, rncmpt_path):
     """
