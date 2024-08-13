@@ -10,7 +10,7 @@ def calculate_pearson_correlation(rnacompete_dir, output_dir):
         if file_name.endswith(".txt"):
             rbp_name = file_name.split('.')[0]
             rnacompete_file = os.path.join(rnacompete_dir, file_name)
-            output_file = os.path.join(output_dir, f"{rbp_name}_bindings_intensities.txt")
+            output_file = os.path.join(output_dir, f"{rbp_name}_predictions.txt")
 
             # טוען את הנתונים משני הקבצים
             rnacompete_data = np.loadtxt(rnacompete_file)
@@ -28,7 +28,7 @@ def calculate_pearson_correlation(rnacompete_dir, output_dir):
     results.append(f"Average correlation: {average_correlation:.4f}")
 
     # שמירת התוצאות לקובץ
-    with open("pearson_correlations_improve.txt", 'w') as result_file:
+    with open("pearson_correlations_CNN.txt", 'w') as result_file:
         result_file.write("\n".join(results))
 
     print("Pearson correlations calculated and saved to 'pearson_correlations.txt'.")
