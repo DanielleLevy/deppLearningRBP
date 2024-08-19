@@ -1,0 +1,16 @@
+Average correlation for weights (1, 2, 5, 10): 0.1829
+Average correlation for weights (10, 100, 1000, 10000): 0.1913
+Average correlation for weights (-1, 10, 100, 1000): 0.1509
+Average correlation for weights (1, 1, 3, 5): 0.1807
+Average correlation for weights (-1, 3, 3, 7): 0.1445
+Average correlation for weights (-2, 4, 6, 8): 0.1452
+Average correlation for weights (-2, 0, 0, 8): 0.1587
+Average correlation for weights (1, 2, 3, 4): 0.1765
+Average correlation for weights (1, 4, 16, 64): 0.1884
+Average correlation for weights (-1, 1, 2, 4): 0.1504
+Average correlation for weights (0.5, 1, 5, 20): 0.1883
+Average correlation for weights (0.6931471805599453, 1.0986122886681098, 1.3862943611198906, 1.6094379124341003): 0.1724
+Average correlation for weights (1, 2, 10, 15): 0.1846
+Average correlation for weights (1, 4, 9, 16): 0.1830
+Average correlation for weights (1, 1.5, 3, 6): 0.1806
+Average correlation for weights (-2, 0, 2, 8): 0.1608
