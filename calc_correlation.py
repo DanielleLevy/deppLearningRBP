@@ -45,14 +45,14 @@ def calculate_pearson_correlation(rnacompete_dir, output_dir):
         results.append(f"Average correlation for weights {weights}: {average_correlation:.4f}")
 
     # שמירת התוצאות לקובץ
-    with open("naive_5/pearson_correlations_by_weights.txt", 'w') as result_file:
+    with open("naive_8/pearson_correlations_by_weights.txt", 'w') as result_file:
         result_file.write("\n".join(results))
 
     print("Pearson correlations calculated and saved to 'pearson_correlations_by_weights.txt'.")
 
 # דוגמה לשימוש
 rnacompete_dir = "./RNAcompete_intensities"  # נתיב לתיקיית ה-RNAcompete
-output_dir = "./naive_5"  # נתיב לתיקיית הפלט
+output_dir = "./naive_8"  # נתיב לתיקיית הפלט
 
 calculate_pearson_correlation(rnacompete_dir, output_dir)
 """
