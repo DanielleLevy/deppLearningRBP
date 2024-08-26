@@ -38,6 +38,7 @@ def main_cnn():
 
         print(f"Results for {rbp} saved.")
 
+
 def main():
     rbp_info_path = sys.argv[1]  # הנתיב לקובץ המידע על ה-RBP והסייקלים
     base_path = sys.argv[2]  # בסיס הנתיבים, למשל התיקייה שבה נמצאים קבצי ה-RBP וה-RNAcompete
@@ -81,4 +82,4 @@ def main():
         np.savetxt(output_file, results, delimiter="\t", header="\t".join([f"Weights {list(weights.values())}" for weights in weight_sets]))
         print(f"Results saved to {output_file}")
 if __name__ == "__main__":
-    main()
+    main_cnn()
