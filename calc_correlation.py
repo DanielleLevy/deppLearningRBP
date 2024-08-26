@@ -1,7 +1,7 @@
 import os
 import numpy as np
 from scipy.stats import pearsonr
-
+"""
 def calculate_pearson_correlation(rnacompete_dir, output_dir):
     weight_correlations = {}  # מילון לשמירת המתאמים לכל סט משקולות
     results = []
@@ -96,4 +96,3 @@ def calculate_pearson_correlation(rnacompete_dir, output_dir):
 rnacompete_dir = "./RNAcompete_intensities"  # נתיב לתיקיית ה-RNAcompete
 output_dir = "."  # נתיב לתיקיית הפלט
 calculate_pearson_correlation(rnacompete_dir, output_dir)
-"""
