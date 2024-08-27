@@ -14,16 +14,28 @@ import numpy as np
 
 def build_model(input_shape):
     model = models.Sequential()
-    model.add(layers.Conv1D(filters=256, kernel_size=8, activation='relu', input_shape=input_shape))
-    model.add(layers.GlobalAveragePooling1D())
+
+    # First convolutional layer with kernel size 5 to capture five-mer patterns
+    model.add(layers.Conv1D(filters=128, kernel_size=5, activation='relu', input_shape=input_shape))
+
+    # Adding a second convolutional layer with kernel size 5
+    model.add(layers.Conv1D(filters=128, kernel_size=5, activation='relu'))
+
+    # Global max pooling layer to reduce the dimensionality
+    model.add(layers.GlobalMaxPooling1D())
+
+    # Fully connected layers
     model.add(layers.Dense(64, activation='relu'))
     model.add(layers.Dense(32, activation='relu'))
-    model.add(layers.Dense(16, activation='relu'))
+
+    # Output layer with a single neuron and sigmoid activation for binary classification
     model.add(layers.Dense(1, activation='sigmoid'))
 
+    # Compile the model
     model.compile(optimizer='adam',
                   loss='binary_crossentropy',
                   metrics=['accuracy', tf.keras.metrics.AUC(name='auc')])
+
     return model
 
 # הגדרת רצפים אפשריים
