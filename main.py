@@ -2,7 +2,7 @@ import sys
 import numpy as np
 from process import get_rncmpt_scores, load_rbp_cycle_info
 import os
-from cnn import  train_and_predict
+from cnn_with_scaler import *
 
 def main_naive():
     rbp_info_path = sys.argv[1]  # הנתיב לקובץ המידע על ה-RBP והסייקלים
@@ -81,5 +81,18 @@ def main():
         output_file = f"./naive_8/{rbp}_bindings_intensities_combined.txt"
         np.savetxt(output_file, results, delimiter="\t", header="\t".join([f"Weights {list(weights.values())}" for weights in weight_sets]))
         print(f"Results saved to {output_file}")
+
+def main_cnn_improve():
+    rbp_info_path = sys.argv[1]
+    base_path = sys.argv[2]
+
+    rbp_files = load_rbp_cycle_info(rbp_info_path)
+    rncmpt_path = os.path.join(base_path, "RNAcompete_sequences_rc.txt")
+
+    for rbp, cycle_files in rbp_files.items():
+        print(f"Processing {rbp} with {len(cycle_files)} cycles")
+        predictions = train_and_predict_with_precomputed(rbp, cycle_files, rncmpt_path)
+        print(f"Results for {rbp} saved.")
 if __name__ == "__main__":
-    main_cnn()
+    main_cnn_improve()
+
